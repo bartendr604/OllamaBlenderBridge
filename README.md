@@ -3,6 +3,8 @@
 ## Overview
 The **Ollama AI Blender Add-on** integrates AI-assisted scripting into Blender, allowing users to generate Python scripts directly within Blender's UI using models such as `qwen2.5-coder`, `llama3.2`, and `deepseek-coder-v2`. The add-on provides an intuitive panel for interacting with the AI model, sending prompts, receiving responses, and executing scripts seamlessly in the Scripting workspace.
 
+![OllamaBridge](https://github.com/SurgeonTalus/OllamaBlenderBridge/blob/main/Skjermbilde%202025-02-01%20kl.%2000.43.09.png)
+
 ## Features
 - **Customizable AI Model**: Select from predefined models or specify a custom model.
 - **Prompt Customization**: Define system prompts and user prompts for generating code.
@@ -71,4 +73,4 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to submit pull requests or report issues to improve this add-on!
-
+![BlenderAI12](https://raw.githubusercontent.com/SurgeonTalus/Blender-Scripting-AI-for-LM-Studio-Server/main/LM%20Studio%20BlenderBridge%20Images/BlenderAI12.png)
