@@ -22,6 +22,8 @@ The **Ollama AI Blender Add-on** integrates AI-assisted scripting into Blender, 
 ### 1. Accessing the Add-on
 - The add-on panel is located in the 3D View sidebar under the **Ollama** tab.
 
+![BlenderAI12](https://github.com/SurgeonTalus/OllamaBlenderBridge/blob/main/Skjermbilde%202025-02-02%20kl.%2002.41.41.png)
+
 ### 2. Configuring the AI Model
 - Select a predefined AI model from the dropdown menu.
 - Optionally, enter a custom model name.
@@ -73,4 +75,6 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to submit pull requests or report issues to improve this add-on!
-![BlenderAI12](https://raw.githubusercontent.com/SurgeonTalus/Blender-Scripting-AI-for-LM-Studio-Server/main/LM%20Studio%20BlenderBridge%20Images/BlenderAI12.png)
+
+
+
